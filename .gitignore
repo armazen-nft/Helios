@@ -1,0 +1,27 @@
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Env
+.env
+.env.*
+
+# Build artifacts
+artifacts/
+cache/
+out/
+build/
+dist/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
